@@ -1,4 +1,4 @@
 @echo off
-cd C:\Users\super\OneDrive\Documents\GitHub\CHESS-AI
+cd ..\GitHub\CHESS-AI    // Path to CHESS-AI in you local machine
 python src\main.py
 pause
